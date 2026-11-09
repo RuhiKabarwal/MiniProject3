@@ -1,0 +1,6 @@
+Field,PercentAgree_Pre,PercentAgree_Post,CohenKappa_Pre,CohenKappa_Post,NumDisagreements,NumResolved,Notes
+HasRecovered,70.0,100.0,0.388,1.000,3,3,"The disputes were about whether one small post-gap commit counts as recovery, and about 'Partial', which is not a codebook value. We settled on yes/no and required substantive post-gap work."
+WhyRecovered,60.0,100.0,NA,NA,4,4,Two disputes were inherited from HasRecovered (N/A). The other two mixed up the first post-gap trigger with later work. We resolved them by putting events in date order.
+ActivityPattern,60.0,100.0,0.245,1.000,4,4,"The author labeled 9 of 10 projects 'declining'. Yearly commit counts separated declining from irregular, U-shaped, and stopped."
+Currentstatus,100.0,100.0,1.000,1.000,0,0,Mechanical 6-month date rule; no disagreements. Note that Active by date does not always mean active development (e.g. secure-compilation).
+RecentThemes,80.0,100.0,NA,NA,2,2,We disagreed on the window (last 10 commits vs post-gap only) and on how to read merge commits. Theme order differences were not counted as disagreements.

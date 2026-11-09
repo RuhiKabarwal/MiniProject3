@@ -1,51 +1,51 @@
 WOCProjectID,ProjectOwnerNetID,ValidatorNetID,Field,AuthorValue,ValidatorValue,PreDiscussAgreementstatus(Yes/No),KeyEvidence,AdjudicatedValue,ResolutionType,PostDiscussAgreementStatus,Comments
-hectornieto_pytseb,emolder,rkabarwa,HasRecovered,Yes,Yes,Yes,timeseries.png,,,,
-e3nn_e3nn,emolder,rkabarwa,HasRecovered,Yes,Yes,Yes,timeseries.png,,,,
-kosma_minmea,emolder,rkabarwa,HasRecovered,Yes,Yes,Yes,timeseries.png,,,,
-digantamisra98_mish,emolder,rkabarwa,HasRecovered,Yes,N/A,No,no gap (41 days max),,,,
-pekkosk_hotbit,emolder,rkabarwa,HasRecovered,Yes,Yes,Yes,timeseries.png,,,,
-metagenomics_denbi-nanopore-training,emolder,rkabarwa,HasRecovered,Partial,Yes,No,timeseries.png,,,,
-bnucnl_dnnbrain,emolder,rkabarwa,HasRecovered,Yes,Yes,Yes,timeseries.png,,,,
-secure-compilation_different_traces,emolder,rkabarwa,HasRecovered,Partial,No,No,timeseries.png,,,,
-irods_irods,emolder,rkabarwa,HasRecovered,N/A,N/A,Yes,timeseries.png,,,,
-cgre-aachen_gempy,emolder,rkabarwa,HasRecovered,Yes,Yes,Yes,timeseries.png,,,,
-hectornieto_pytseb,emolder,rkabarwa,WhyRecovered,Development code merged; ET module added; import fixes.,Development branch merged (Sep 2017); then ET module added.,Yes,commit 2017-09-28,,,,
-e3nn_e3nn,emolder,rkabarwa,WhyRecovered,PR #436 added torch.compile support.,PR #436 added torch.compile support (Jun 2024).,Yes,PR #436,,,,
-kosma_minmea,emolder,rkabarwa,WhyRecovered,PR #58 added GBS parser; PR #62 updated README.,Maintainer merged backlog of PRs (#43; #60) and added CI (May 2022).,No,GBS parser was pre-gap (2020-11),,,,
-digantamisra98_mish,emolder,rkabarwa,WhyRecovered,Maintainer resumed README/citation updates.,N/A,No,,,,,
-pekkosk_hotbit,emolder,rkabarwa,WhyRecovered,Later commits fixed orbital/energy bugs.,Owner set up GitHub Pages docs (Dec 2015).,No,gh-pages commits 2015-12-10,,,,
-metagenomics_denbi-nanopore-training,emolder,rkabarwa,WhyRecovered,Bakta and EDGAR pages added after reverted merge.,New Bakta/EDGAR training pages added (Jul 2025).,Yes,PR #3; PR #4,,,,
-bnucnl_dnnbrain,emolder,rkabarwa,WhyRecovered,New contributors added CLIP and RSA modules.,New contributors added CLIP (PR #419) and RSA (PR #420).,Yes,PR #419; PR #420,,,,
-secure-compilation_different_traces,emolder,rkabarwa,WhyRecovered,README update mentioning contributors.,N/A,No,,,,,
-irods_irods,emolder,rkabarwa,WhyRecovered,N/A,N/A,Yes,,,,,
-cgre-aachen_gempy,emolder,rkabarwa,WhyRecovered,Setup; test and refactoring work resumed.,Lead developer resumed refactoring and tests (Apr 2024).,Yes,commits 2024-04-04,,,,
-hectornieto_pytseb,emolder,rkabarwa,ActivityPattern,declining,declining,Yes,timeseries.png,,,,
-e3nn_e3nn,emolder,rkabarwa,ActivityPattern,declining,declining,Yes,timeseries.png,,,,
-kosma_minmea,emolder,rkabarwa,ActivityPattern,declining,irregular,No,timeseries.png,,,,
-digantamisra98_mish,emolder,rkabarwa,ActivityPattern,declining,declining,Yes,timeseries.png,,,,
-pekkosk_hotbit,emolder,rkabarwa,ActivityPattern,declining,declining,Yes,timeseries.png,,,,
-metagenomics_denbi-nanopore-training,emolder,rkabarwa,ActivityPattern,declining,irregular,No,timeseries.png,,,,
-bnucnl_dnnbrain,emolder,rkabarwa,ActivityPattern,declining,declining,Yes,timeseries.png,,,,
-secure-compilation_different_traces,emolder,rkabarwa,ActivityPattern,declining,stopped,No,timeseries.png,,,,
-irods_irods,emolder,rkabarwa,ActivityPattern,U-shaped,U-shaped,Yes,timeseries.png,,,,
-cgre-aachen_gempy,emolder,rkabarwa,ActivityPattern,declining,U-shaped,No,timeseries.png,,,,
-hectornieto_pytseb,emolder,rkabarwa,Currentstatus,Active,Active,Yes,last commit 2025-12-16,,,,
-e3nn_e3nn,emolder,rkabarwa,Currentstatus,Active,Active,Yes,last commit 2025-10-14,,,,
-kosma_minmea,emolder,rkabarwa,Currentstatus,Active,Active,Yes,last commit 2025-11-03,,,,
-digantamisra98_mish,emolder,rkabarwa,Currentstatus,Active,Active,Yes,last commit 2026-04-08,,,,
-pekkosk_hotbit,emolder,rkabarwa,Currentstatus,Inactive,Inactive,Yes,last commit 2025-03-11,,,,
-metagenomics_denbi-nanopore-training,emolder,rkabarwa,Currentstatus,Active,Active,Yes,last commit 2025-07-04,,,,
-bnucnl_dnnbrain,emolder,rkabarwa,Currentstatus,Inactive,Inactive,Yes,last commit 2024-11-20,,,,
-secure-compilation_different_traces,emolder,rkabarwa,Currentstatus,Active,Active,Yes,last commit 2025-05-08,,,,
-irods_irods,emolder,rkabarwa,Currentstatus,Active,Active,Yes,last commit 2025-11-05,,,,
-cgre-aachen_gempy,emolder,rkabarwa,Currentstatus,Active,Active,Yes,last commit 2025-11-05,,,,
-hectornieto_pytseb,emolder,rkabarwa,RecentThemes,Bug fixes:Dependency updates,Dependency updates:Bug fixes,Yes,,,,,
-e3nn_e3nn,emolder,rkabarwa,RecentThemes,Feature development:Bug fixes,Feature development:Release,No,last 10 commits,,,,
-kosma_minmea,emolder,rkabarwa,RecentThemes,Bug fixes:Other,Bug fixes:Other,Yes,,,,,
-digantamisra98_mish,emolder,rkabarwa,RecentThemes,Documentation updates,Documentation updates:Other,Yes,,,,,
-pekkosk_hotbit,emolder,rkabarwa,RecentThemes,Bug fixes:Documentation updates,Bug fixes:Documentation updates,Yes,,,,,
-metagenomics_denbi-nanopore-training,emolder,rkabarwa,RecentThemes,Documentation updates:Other,Documentation updates:Other,Yes,,,,,
-bnucnl_dnnbrain,emolder,rkabarwa,RecentThemes,Feature development:Automated bot contributions,Feature development:Automated bot contributions,Yes,,,,,
-secure-compilation_different_traces,emolder,rkabarwa,RecentThemes,Documentation updates,Feature development:Documentation updates,No,last 10 commits,,,,
-irods_irods,emolder,rkabarwa,RecentThemes,Bug fixes:Other,Other:Bug fixes,Yes,,,,,
-cgre-aachen_gempy,emolder,rkabarwa,RecentThemes,Feature development:Bug fixes,Feature development:Bug fixes,Yes,,,,,
+hectornieto_pytseb,emolder,rkabarwa,HasRecovered,Yes,Yes,Yes,timeseries.png,Yes,AuthorKept,Yes,Agreed before discussion.
+e3nn_e3nn,emolder,rkabarwa,HasRecovered,Yes,Yes,Yes,timeseries.png,Yes,AuthorKept,Yes,Agreed before discussion.
+kosma_minmea,emolder,rkabarwa,HasRecovered,Yes,Yes,Yes,timeseries.png,Yes,AuthorKept,Yes,Agreed before discussion.
+digantamisra98_mish,emolder,rkabarwa,HasRecovered,Yes,N/A,No,no gap (41 days max),N/A,ValidatorKept,Yes,No qualifying gap before the 2025-09-30 cutoff (longest gap 41 days; the Dec 2025-Jan 2026 pause is after the cutoff and the author's own stats list 0 gaps). Nothing to recover from.
+pekkosk_hotbit,emolder,rkabarwa,HasRecovered,Yes,Yes,Yes,timeseries.png,Yes,AuthorKept,Yes,Agreed before discussion.
+metagenomics_denbi-nanopore-training,emolder,rkabarwa,HasRecovered,Partial,Yes,No,timeseries.png,Yes,ValidatorKept,Yes,"Codebook allows only yes/no, so 'Partial' had to collapse. New commits by a new contributor (Bakta/EDGAR pages, Jul 2025) after the 982-day gap meet the codebook's 'new commits' test. Comment records that the work is on branch 2019; master stayed at 2022 after the PR #3 merge was reverted (PR #4)."
+bnucnl_dnnbrain,emolder,rkabarwa,HasRecovered,Yes,Yes,Yes,timeseries.png,Yes,AuthorKept,Yes,Agreed before discussion.
+secure-compilation_different_traces,emolder,rkabarwa,HasRecovered,Partial,No,No,timeseries.png,No,ValidatorKept,Yes,The only post-gap commit (2025-05-08) adds contributor credits to the README. A single documentation touch-up is not recovery; same rule both of us applied to riatelab_cartography and patrickzib_sfa in the other log.
+irods_irods,emolder,rkabarwa,HasRecovered,N/A,N/A,Yes,timeseries.png,N/A,AuthorKept,Yes,Agreed before discussion.
+cgre-aachen_gempy,emolder,rkabarwa,HasRecovered,Yes,Yes,Yes,timeseries.png,Yes,AuthorKept,Yes,Agreed before discussion.
+hectornieto_pytseb,emolder,rkabarwa,WhyRecovered,Development code merged; ET module added; import fixes.,Development branch merged (Sep 2017); then ET module added.,Yes,commit 2017-09-28,Development code merged; ET module added; import fixes.,AuthorKept,Yes,Agreed before discussion.
+e3nn_e3nn,emolder,rkabarwa,WhyRecovered,PR #436 added torch.compile support.,PR #436 added torch.compile support (Jun 2024).,Yes,PR #436,PR #436 added torch.compile support.,AuthorKept,Yes,Agreed before discussion.
+kosma_minmea,emolder,rkabarwa,WhyRecovered,PR #58 added GBS parser; PR #62 updated README.,Maintainer merged backlog of PRs (#43; #60) and added CI (May 2022).,No,GBS parser was pre-gap (2020-11),"Maintainer returned in May 2022 and merged PRs left open during the gap, including GBS parser PR #58 (opened Nov 2020), README PR #62, and backlog PRs #43/#60, then added CI.",Compromise,Yes,"Author named the PRs; validator noted the GBS parser code was written before the gap. Agreed the trigger is the maintainer merging the review backlog, with PR #58 as the main example."
+digantamisra98_mish,emolder,rkabarwa,WhyRecovered,Maintainer resumed README/citation updates.,N/A,No,,N/A,ValidatorKept,Yes,"Follows HasRecovered = N/A. The README/citation edits are ongoing maintenance, not a return from a gap."
+pekkosk_hotbit,emolder,rkabarwa,WhyRecovered,Later commits fixed orbital/energy bugs.,Owner set up GitHub Pages docs (Dec 2015).,No,gh-pages commits 2015-12-10,Original maintainer pekkosk returned in Dec 2015 (removed build artifacts; added parameters; set up GitHub Pages docs); new contributors later fixed orbital/energy bugs.,Compromise,Yes,"The first post-gap commits (2015-12-10) are the owner's docs/build work, which is the trigger. The orbital/energy fixes the author cited came years later from new contributors, so both are kept in order."
+metagenomics_denbi-nanopore-training,emolder,rkabarwa,WhyRecovered,Bakta and EDGAR pages added after reverted merge.,New Bakta/EDGAR training pages added (Jul 2025).,Yes,PR #3; PR #4,Bakta and EDGAR pages added after reverted merge.,AuthorKept,Yes,Agreed before discussion.
+bnucnl_dnnbrain,emolder,rkabarwa,WhyRecovered,New contributors added CLIP and RSA modules.,New contributors added CLIP (PR #419) and RSA (PR #420).,Yes,PR #419; PR #420,New contributors added CLIP and RSA modules.,AuthorKept,Yes,Agreed before discussion.
+secure-compilation_different_traces,emolder,rkabarwa,WhyRecovered,README update mentioning contributors.,N/A,No,,N/A,ValidatorKept,Yes,Follows HasRecovered = No.
+irods_irods,emolder,rkabarwa,WhyRecovered,N/A,N/A,Yes,,N/A,AuthorKept,Yes,Agreed before discussion.
+cgre-aachen_gempy,emolder,rkabarwa,WhyRecovered,Setup; test and refactoring work resumed.,Lead developer resumed refactoring and tests (Apr 2024).,Yes,commits 2024-04-04,Setup; test and refactoring work resumed.,AuthorKept,Yes,Agreed before discussion.
+hectornieto_pytseb,emolder,rkabarwa,ActivityPattern,declining,declining,Yes,timeseries.png,declining,AuthorKept,Yes,Agreed before discussion.
+e3nn_e3nn,emolder,rkabarwa,ActivityPattern,declining,declining,Yes,timeseries.png,declining,AuthorKept,Yes,Agreed before discussion.
+kosma_minmea,emolder,rkabarwa,ActivityPattern,declining,irregular,No,timeseries.png,irregular,ValidatorKept,Yes,"Yearly commits 115, 5, 14, 28, 31, 26, 6, (none in 2021), 52, 14, 10, 47 (2014-2025). The late spikes in 2022 and 2025 rule out a steady decline."
+digantamisra98_mish,emolder,rkabarwa,ActivityPattern,declining,declining,Yes,timeseries.png,declining,AuthorKept,Yes,Agreed before discussion.
+pekkosk_hotbit,emolder,rkabarwa,ActivityPattern,declining,declining,Yes,timeseries.png,declining,AuthorKept,Yes,Agreed before discussion.
+metagenomics_denbi-nanopore-training,emolder,rkabarwa,ActivityPattern,declining,irregular,No,timeseries.png,irregular,ValidatorKept,Yes,"Yearly commits 222, 82, 145, 417 (2017-2020), then 1 in 2022 and 11 in 2025. The bursts follow training-course dates rather than a gradual decline."
+bnucnl_dnnbrain,emolder,rkabarwa,ActivityPattern,declining,declining,Yes,timeseries.png,declining,AuthorKept,Yes,Agreed before discussion.
+secure-compilation_different_traces,emolder,rkabarwa,ActivityPattern,declining,stopped,No,timeseries.png,stopped,ValidatorKept,Yes,"219 and 289 commits in 2018-2019, 10 in 2020, then one README commit in 2025. Development ended with the ESOP 2020 paper. Currentstatus stays Active only because of the mechanical date rule."
+irods_irods,emolder,rkabarwa,ActivityPattern,U-shaped,U-shaped,Yes,timeseries.png,U-shaped,AuthorKept,Yes,Agreed before discussion.
+cgre-aachen_gempy,emolder,rkabarwa,ActivityPattern,declining,U-shaped,No,timeseries.png,U-shaped,ValidatorKept,Yes,"Yearly commits rise to 1003 in 2020, drop to 134 and 62 in 2021-2022, then recover to 536, 245, and 360 in 2023-2025. That is a dip followed by recovery, not a decline."
+hectornieto_pytseb,emolder,rkabarwa,Currentstatus,Active,Active,Yes,last commit 2025-12-16,Active,AuthorKept,Yes,Agreed before discussion.
+e3nn_e3nn,emolder,rkabarwa,Currentstatus,Active,Active,Yes,last commit 2025-10-14,Active,AuthorKept,Yes,Agreed before discussion.
+kosma_minmea,emolder,rkabarwa,Currentstatus,Active,Active,Yes,last commit 2025-11-03,Active,AuthorKept,Yes,Agreed before discussion.
+digantamisra98_mish,emolder,rkabarwa,Currentstatus,Active,Active,Yes,last commit 2026-04-08,Active,AuthorKept,Yes,Agreed before discussion.
+pekkosk_hotbit,emolder,rkabarwa,Currentstatus,Inactive,Inactive,Yes,last commit 2025-03-11,Inactive,AuthorKept,Yes,Agreed before discussion.
+metagenomics_denbi-nanopore-training,emolder,rkabarwa,Currentstatus,Active,Active,Yes,last commit 2025-07-04,Active,AuthorKept,Yes,Agreed before discussion.
+bnucnl_dnnbrain,emolder,rkabarwa,Currentstatus,Inactive,Inactive,Yes,last commit 2024-11-20,Inactive,AuthorKept,Yes,Agreed before discussion.
+secure-compilation_different_traces,emolder,rkabarwa,Currentstatus,Active,Active,Yes,last commit 2025-05-08,Active,AuthorKept,Yes,Agreed before discussion.
+irods_irods,emolder,rkabarwa,Currentstatus,Active,Active,Yes,last commit 2025-11-05,Active,AuthorKept,Yes,Agreed before discussion.
+cgre-aachen_gempy,emolder,rkabarwa,Currentstatus,Active,Active,Yes,last commit 2025-11-05,Active,AuthorKept,Yes,Agreed before discussion.
+hectornieto_pytseb,emolder,rkabarwa,RecentThemes,Bug fixes:Dependency updates,Dependency updates:Bug fixes,Yes,,Bug fixes:Dependency updates,AuthorKept,Yes,Agreed before discussion.
+e3nn_e3nn,emolder,rkabarwa,RecentThemes,Feature development:Bug fixes,Feature development:Release,No,last 10 commits,Feature development:Release,ValidatorKept,Yes,"The last 10 commits include linear slices and metadata (feature) and an explicit 'version update' (release). Most of the rest are merge commits. Only the D_from_angles loop removal is close to a fix, so Release is the stronger second theme."
+kosma_minmea,emolder,rkabarwa,RecentThemes,Bug fixes:Other,Bug fixes:Other,Yes,,Bug fixes:Other,AuthorKept,Yes,Agreed before discussion.
+digantamisra98_mish,emolder,rkabarwa,RecentThemes,Documentation updates,Documentation updates:Other,Yes,,Documentation updates,AuthorKept,Yes,Agreed before discussion.
+pekkosk_hotbit,emolder,rkabarwa,RecentThemes,Bug fixes:Documentation updates,Bug fixes:Documentation updates,Yes,,Bug fixes:Documentation updates,AuthorKept,Yes,Agreed before discussion.
+metagenomics_denbi-nanopore-training,emolder,rkabarwa,RecentThemes,Documentation updates:Other,Documentation updates:Other,Yes,,Documentation updates:Other,AuthorKept,Yes,Agreed before discussion.
+bnucnl_dnnbrain,emolder,rkabarwa,RecentThemes,Feature development:Automated bot contributions,Feature development:Automated bot contributions,Yes,,Feature development:Automated bot contributions,AuthorKept,Yes,Agreed before discussion.
+secure-compilation_different_traces,emolder,rkabarwa,RecentThemes,Documentation updates,Feature development:Documentation updates,No,last 10 commits,Feature development:Documentation updates,ValidatorKept,Yes,"The codebook uses the last 10 commits, not only post-gap ones. 7 of those 10 are Coq proof development (e.g. 'The whole diagram is now in Coq') and 2 are README updates."
+irods_irods,emolder,rkabarwa,RecentThemes,Bug fixes:Other,Other:Bug fixes,Yes,,Bug fixes:Other,AuthorKept,Yes,Agreed before discussion.
+cgre-aachen_gempy,emolder,rkabarwa,RecentThemes,Feature development:Bug fixes,Feature development:Bug fixes,Yes,,Feature development:Bug fixes,AuthorKept,Yes,Agreed before discussion.
